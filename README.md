@@ -1,5 +1,5 @@
 # Portfolio
-![1](https://github.com/user-attachments/assets/f99eed03-b1c1-455f-abee-e71a2d21bb95)
+<!-- ![1](https://github.com/user-attachments/assets/f99eed03-b1c1-455f-abee-e71a2d21bb95) -->
 
 ## Корзун Евгений Германович
 4 июля 1991, 33 года
